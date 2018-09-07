@@ -9,7 +9,3 @@ phases:
     commands:
       - echo Build completed on `date`
       - mvn package
-artifacts:
-    files:
-        - deploy/*
-    discard-paths: yes
