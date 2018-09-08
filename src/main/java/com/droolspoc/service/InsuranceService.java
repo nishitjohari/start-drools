@@ -10,7 +10,7 @@ import com.droolspoc.model.InsuranceProduct;
 @Service
 public class InsuranceService {
 
-	private final KieContainer kieContainer;  
+	private final KieContainer kieContainer;   
 	
 	@Autowired
 	public InsuranceService(KieContainer kieContainer)
