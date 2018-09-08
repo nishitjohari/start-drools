@@ -3,7 +3,7 @@
   <groupId>com.droolspoc</groupId>
   <artifactId>start-drools</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 	
 	<name>start-drools</name>
 	<description>Spring Boot Drools</description>
