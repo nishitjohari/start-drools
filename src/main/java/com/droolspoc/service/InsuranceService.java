@@ -13,7 +13,7 @@ public class InsuranceService {
 	private final KieContainer kieContainer;   
 	
 	@Autowired
-	public InsuranceService(KieContainer kieContainer)
+	public InsuranceService(KieContainer kieContainer) 
 	{
 		this.kieContainer = kieContainer;
 	}
